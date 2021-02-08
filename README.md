@@ -1,5 +1,5 @@
 # BasicJavaArthematicMethods
-intended for showcasing some simple basics of making methods.
+Intended for showcasing some simple basics of making methods.
 The program requires additional writing in the main method in order to use the three included methods.
 
 
